@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": 5,
+      "name": "rahul huli",
+      "dateOfBirth": "24-may-1998",
+      "age": "25",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "rahul kl",
+      "dateOfBirth": "24-aug-1998",
+      "age": "22",
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "name": "jadeja",
+      "dateOfBirth": "24-may-2000",
+      "age": "9",
+      "gender": "male"
+    },
+    {
+      "name": "vikas",
+      "dateOfBirth": "12,may,1998",
+      "age": "7",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "name": "vikas",
+      "dateOfBirth": "12,jul,2019",
+      "age": "12",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "name": "vikki",
+      "dateOfBirth": "oddn",
+      "age": "2",
+      "gender": "male",
+      "id": 16
+    },
+    {
+      "name": "Nithina",
+      "dateOfBirth": "12,july,2000",
+      "age": "2",
+      "gender": "female",
+      "id": 17
+    }
+  ]
+}
