@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/student-management-app/static/css/main.da9a1676.chunk.css",
+    "main.js": "/student-management-app/static/js/main.6f663def.chunk.js",
+    "main.js.map": "/student-management-app/static/js/main.6f663def.chunk.js.map",
+    "runtime-main.js": "/student-management-app/static/js/runtime-main.6f132562.js",
+    "runtime-main.js.map": "/student-management-app/static/js/runtime-main.6f132562.js.map",
+    "static/js/2.a38428cf.chunk.js": "/student-management-app/static/js/2.a38428cf.chunk.js",
+    "static/js/2.a38428cf.chunk.js.map": "/student-management-app/static/js/2.a38428cf.chunk.js.map",
+    "index.html": "/student-management-app/index.html",
+    "static/css/main.da9a1676.chunk.css.map": "/student-management-app/static/css/main.da9a1676.chunk.css.map",
+    "static/js/2.a38428cf.chunk.js.LICENSE.txt": "/student-management-app/static/js/2.a38428cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f132562.js",
+    "static/js/2.a38428cf.chunk.js",
+    "static/css/main.da9a1676.chunk.css",
+    "static/js/main.6f663def.chunk.js"
+  ]
+}
